@@ -1,1 +1,36 @@
 
+1. Git — system version control for files and joint work
+
+2. Statuses commited modified staged
+
+3. "git add" - add file under git
+
+4. "git status" command used to check file status
+
+5. "git commit" command used to add file to a local repo
+
+6. "git init" command used to initialise git in the project
+
+7. in commit commands we need to write description about what we change in this commit
+
+8. to see all commites use "git log --reflog" command
+
+9. "git checkout" - switch between branch
+
+10. "git reset" - undo changes
+
+11. "git log" - Shows the commit logs
+
+12. "git-status" - Show the working tree status
+
+13. use commit --amend or git checkout --(file name)
+
+14. git checkout (file name)
+
+15. git branch (branch name)
+
+16. git checkout (branch name)
+
+17. git checkout main
+
+18. git merge (branch name)
